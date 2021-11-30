@@ -1,0 +1,4 @@
+plugins:
+  pylint:
+    enabled: true
+# exclude_patterns: []
